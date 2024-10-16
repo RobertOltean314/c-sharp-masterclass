@@ -1,0 +1,4 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries_Find_Max\06_Dictionaries_Find_Max\obj\Debug\net8.0\06_Dictionaries_Find_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries_Find_Max\06_Dictionaries_Find_Max\obj\Debug\net8.0\06_Dictionaries_Find_Max.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries_Find_Max\06_Dictionaries_Find_Max\obj\Debug\net8.0\06_Dictionaries_Find_Max.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries_Find_Max\06_Dictionaries_Find_Max\obj\Debug\net8.0\06_Dictionaries_Find_Max.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\bin\Debug\net8.0\06_Type_Constrains.exe
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\bin\Debug\net8.0\06_Type_Constrains.deps.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\bin\Debug\net8.0\06_Type_Constrains.runtimeconfig.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\bin\Debug\net8.0\06_Type_Constrains.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\bin\Debug\net8.0\06_Type_Constrains.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\obj\Debug\net8.0\06_Type_Constrains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\obj\Debug\net8.0\06_Type_Constrains.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\obj\Debug\net8.0\06_Type_Constrains.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\obj\Debug\net8.0\06_Type_Constrains.csproj.CoreCompileInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\obj\Debug\net8.0\06_Type_Constrains.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\obj\Debug\net8.0\refint\06_Type_Constrains.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\obj\Debug\net8.0\06_Type_Constrains.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\obj\Debug\net8.0\06_Type_Constrains.genruntimeconfig.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Type_Constrains\06_Type_Constrains\obj\Debug\net8.0\ref\06_Type_Constrains.dll

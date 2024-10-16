@@ -1,0 +1,14 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\bin\Debug\net8.0\08_Records.exe
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\bin\Debug\net8.0\08_Records.deps.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\bin\Debug\net8.0\08_Records.runtimeconfig.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\bin\Debug\net8.0\08_Records.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\bin\Debug\net8.0\08_Records.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\obj\Debug\net8.0\08_Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\obj\Debug\net8.0\08_Records.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\obj\Debug\net8.0\08_Records.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\obj\Debug\net8.0\08_Records.csproj.CoreCompileInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\obj\Debug\net8.0\08_Records.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\obj\Debug\net8.0\refint\08_Records.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\obj\Debug\net8.0\08_Records.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\obj\Debug\net8.0\08_Records.genruntimeconfig.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Records\08_Records\obj\Debug\net8.0\ref\08_Records.dll

@@ -1,0 +1,14 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\bin\Debug\net8.0\09_Assignment.exe
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\bin\Debug\net8.0\09_Assignment.deps.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\bin\Debug\net8.0\09_Assignment.runtimeconfig.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\bin\Debug\net8.0\09_Assignment.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\bin\Debug\net8.0\09_Assignment.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\obj\Debug\net8.0\09_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\obj\Debug\net8.0\09_Assignment.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\obj\Debug\net8.0\09_Assignment.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\obj\Debug\net8.0\09_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\obj\Debug\net8.0\09_Assignment.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\obj\Debug\net8.0\refint\09_Assignment.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\obj\Debug\net8.0\09_Assignment.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\obj\Debug\net8.0\09_Assignment.genruntimeconfig.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\09_Assignment\09_Assignment\obj\Debug\net8.0\ref\09_Assignment.dll

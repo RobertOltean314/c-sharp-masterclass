@@ -1,0 +1,4 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\04_Virtual_Methods\04_Virtual_Methods\obj\Debug\net8.0\04_Virtual_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\04_Virtual_Methods\04_Virtual_Methods\obj\Debug\net8.0\04_Virtual_Methods.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\04_Virtual_Methods\04_Virtual_Methods\obj\Debug\net8.0\04_Virtual_Methods.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\04_Virtual_Methods\04_Virtual_Methods\obj\Debug\net8.0\04_Virtual_Methods.csproj.CoreCompileInputs.cache

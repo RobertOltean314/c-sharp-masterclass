@@ -1,0 +1,14 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\bin\Debug\net8.0\06_Dictionaries.exe
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\bin\Debug\net8.0\06_Dictionaries.deps.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\bin\Debug\net8.0\06_Dictionaries.runtimeconfig.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\bin\Debug\net8.0\06_Dictionaries.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\bin\Debug\net8.0\06_Dictionaries.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\obj\Debug\net8.0\06_Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\obj\Debug\net8.0\06_Dictionaries.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\obj\Debug\net8.0\06_Dictionaries.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\obj\Debug\net8.0\06_Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\obj\Debug\net8.0\06_Dictionaries.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\obj\Debug\net8.0\refint\06_Dictionaries.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\obj\Debug\net8.0\06_Dictionaries.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\obj\Debug\net8.0\06_Dictionaries.genruntimeconfig.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Dictionaries\06_Dictionaries\obj\Debug\net8.0\ref\06_Dictionaries.dll

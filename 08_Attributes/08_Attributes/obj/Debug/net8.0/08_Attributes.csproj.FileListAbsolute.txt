@@ -1,0 +1,14 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\bin\Debug\net8.0\08_Attributes.exe
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\bin\Debug\net8.0\08_Attributes.deps.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\bin\Debug\net8.0\08_Attributes.runtimeconfig.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\bin\Debug\net8.0\08_Attributes.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\bin\Debug\net8.0\08_Attributes.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\obj\Debug\net8.0\08_Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\obj\Debug\net8.0\08_Attributes.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\obj\Debug\net8.0\08_Attributes.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\obj\Debug\net8.0\08_Attributes.csproj.CoreCompileInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\obj\Debug\net8.0\08_Attributes.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\obj\Debug\net8.0\refint\08_Attributes.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\obj\Debug\net8.0\08_Attributes.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\obj\Debug\net8.0\08_Attributes.genruntimeconfig.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\08_Attributes\08_Attributes\obj\Debug\net8.0\ref\08_Attributes.dll

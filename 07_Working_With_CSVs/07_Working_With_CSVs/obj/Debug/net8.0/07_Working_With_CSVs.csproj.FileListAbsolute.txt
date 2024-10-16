@@ -1,0 +1,14 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\bin\Debug\net8.0\07_Working_With_CSVs.exe
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\bin\Debug\net8.0\07_Working_With_CSVs.deps.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\bin\Debug\net8.0\07_Working_With_CSVs.runtimeconfig.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\bin\Debug\net8.0\07_Working_With_CSVs.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\bin\Debug\net8.0\07_Working_With_CSVs.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\obj\Debug\net8.0\07_Working_With_CSVs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\obj\Debug\net8.0\07_Working_With_CSVs.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\obj\Debug\net8.0\07_Working_With_CSVs.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\obj\Debug\net8.0\07_Working_With_CSVs.csproj.CoreCompileInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\obj\Debug\net8.0\07_Working_With_CSVs.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\obj\Debug\net8.0\refint\07_Working_With_CSVs.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\obj\Debug\net8.0\07_Working_With_CSVs.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\obj\Debug\net8.0\07_Working_With_CSVs.genruntimeconfig.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Working_With_CSVs\07_Working_With_CSVs\obj\Debug\net8.0\ref\07_Working_With_CSVs.dll

@@ -1,0 +1,14 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\bin\Debug\net8.0\05_Game_Data_Parser.exe
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\bin\Debug\net8.0\05_Game_Data_Parser.deps.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\bin\Debug\net8.0\05_Game_Data_Parser.runtimeconfig.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\bin\Debug\net8.0\05_Game_Data_Parser.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\bin\Debug\net8.0\05_Game_Data_Parser.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\obj\Debug\net8.0\05_Game_Data_Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\obj\Debug\net8.0\05_Game_Data_Parser.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\obj\Debug\net8.0\05_Game_Data_Parser.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\obj\Debug\net8.0\05_Game_Data_Parser.csproj.CoreCompileInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\obj\Debug\net8.0\05_Game_Data_Parser.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\obj\Debug\net8.0\refint\05_Game_Data_Parser.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\obj\Debug\net8.0\05_Game_Data_Parser.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\obj\Debug\net8.0\05_Game_Data_Parser.genruntimeconfig.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\05_Game_Data_Parser\05_Game_Data_Parser\obj\Debug\net8.0\ref\05_Game_Data_Parser.dll

@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\EOLTEAR8G\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\EOLTEAR8G\\OneDrive - NTT DATA EMEAL\\Escritorio\\Desktop Folder\\Proiecte\\Development\\.NET\\CSharpMasterclass\\08_Attributes\\08_Attributes\\08_Attributes.csproj",
+      "projectName": "08_Attributes",
+      "projectPath": "C:\\Users\\EOLTEAR8G\\OneDrive - NTT DATA EMEAL\\Escritorio\\Desktop Folder\\Proiecte\\Development\\.NET\\CSharpMasterclass\\08_Attributes\\08_Attributes\\08_Attributes.csproj",
+      "packagesPath": "C:\\Users\\EOLTEAR8G\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EOLTEAR8G\\OneDrive - NTT DATA EMEAL\\Escritorio\\Desktop Folder\\Proiecte\\Development\\.NET\\CSharpMasterclass\\08_Attributes\\08_Attributes\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\EOLTEAR8G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\bin\Debug\net8.0\07_Writing_To_File.exe
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\bin\Debug\net8.0\07_Writing_To_File.deps.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\bin\Debug\net8.0\07_Writing_To_File.runtimeconfig.json
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\bin\Debug\net8.0\07_Writing_To_File.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\bin\Debug\net8.0\07_Writing_To_File.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\obj\Debug\net8.0\07_Writing_To_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\obj\Debug\net8.0\07_Writing_To_File.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\obj\Debug\net8.0\07_Writing_To_File.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\obj\Debug\net8.0\07_Writing_To_File.csproj.CoreCompileInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\obj\Debug\net8.0\07_Writing_To_File.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\obj\Debug\net8.0\refint\07_Writing_To_File.dll
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\obj\Debug\net8.0\07_Writing_To_File.pdb
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\obj\Debug\net8.0\07_Writing_To_File.genruntimeconfig.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\07_Writing_To_File\07_Writing_To_File\obj\Debug\net8.0\ref\07_Writing_To_File.dll

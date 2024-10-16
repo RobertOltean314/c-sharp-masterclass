@@ -1,0 +1,4 @@
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Generic_Type_Pair_Class\06_Generic_Type_Pair_Class\obj\Debug\net8.0\06_Generic_Type_Pair_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Generic_Type_Pair_Class\06_Generic_Type_Pair_Class\obj\Debug\net8.0\06_Generic_Type_Pair_Class.AssemblyInfoInputs.cache
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Generic_Type_Pair_Class\06_Generic_Type_Pair_Class\obj\Debug\net8.0\06_Generic_Type_Pair_Class.AssemblyInfo.cs
+C:\Users\EOLTEAR8G\OneDrive - NTT DATA EMEAL\Escritorio\Desktop Folder\Proiecte\Development\.NET\CSharpMasterclass\06_Generic_Type_Pair_Class\06_Generic_Type_Pair_Class\obj\Debug\net8.0\06_Generic_Type_Pair_Class.csproj.CoreCompileInputs.cache
